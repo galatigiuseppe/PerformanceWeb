@@ -1,0 +1,35 @@
+{
+  "name": "optimizationSite",
+  "version": "1.0.0",
+  "description": "Udacity's Web Optimization course final project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaroot32/optimizationSite.git"
+  },
+  "keywords": [
+    "Front-end",
+    "Optimization"
+  ],
+  "author": "Jonathan Root",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaroot32/optimizationSite/issues"
+  },
+  "homepage": "https://github.com/jaroot32/optimizationSite",
+  "devDependencies": {
+    "bootstrap": "^3.3.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.4.0",
+    "jquery-latest": "^1.9.0"
+  },
+  "dependencies": {
+    "bower": "^1.5.2",
+    "bower-requirejs": "^1.2.0",
+    "critical": "^0.6.0"
+  }
+}
