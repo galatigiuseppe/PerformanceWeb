@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaroot32/optimizationSite.git"
+    "url": "https://github.com/galatigiuseppe/PerformanceWeb.git"
   },
   "keywords": [
     "Front-end",
     "Optimization"
   ],
-  "author": "Jonathan Root",
+  "author": "Giuseppe Galati",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaroot32/optimizationSite/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jaroot32/optimizationSite",
+  "homepage": "https://github.com/galatigiuseppe/PerformanceWeb",
   "devDependencies": {
     "bootstrap": "^3.3.5",
     "gulp": "^3.9.0",
