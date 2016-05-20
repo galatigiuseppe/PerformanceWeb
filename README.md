@@ -29,21 +29,15 @@ Score 90% or above on Pagespeed insights.  Refactor JS code so that animations a
 
 6) Host on github pages.
 
-7) Customize with Bootstrap.
+7) Manage dependencies with Bower and NPM.
 
-8) Manage dependencies with Bower and NPM.
-
-9) Comment & Beautify code.
-
-10) Refactor scrolling and resize pizza functions so as not to calculate the document.body.scrollTop every time the loop runs.
+8) Refactor scrolling and resize pizza functions so as not to calculate the document.body.scrollTop every time the loop runs.
 
 ###Result:
 
 CRP is reduced so that index.html and pizza.html run "in the green" for desktop and mobile page speed tests.  With the exception of index.html running just below 90 on mobile. Pizza.html runs at 60fps while scrolling the page from top to bottom.
 
-## [View the site on gh-pages.](http://jaroot32.github.io/optimizationSite/)
-
-![PizzaAnimationStackTrace](/images/PizzariaStackTrace.png)
+## [View the site on gh-pages.](http://galatigiuseppe.github.io/PerformanceWeb/)
 
 #Edits from first submission
 ##Edits in style.css
